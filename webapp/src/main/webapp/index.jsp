@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Welcome! to Code! Hunting! Enjoy Coding!</h1>
+    <h1>Issue has been solved :) Thanks!!!</h1>
     <p>BECOME ONE OF US </p>
     <hr>
 
